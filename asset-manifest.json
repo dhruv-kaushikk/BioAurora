@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BioAurora/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BioAurora/static/js/main.c9c80148.chunk.js",
+    "main.js.map": "/BioAurora/static/js/main.c9c80148.chunk.js.map",
+    "runtime-main.js": "/BioAurora/static/js/runtime-main.cc557d5d.js",
+    "runtime-main.js.map": "/BioAurora/static/js/runtime-main.cc557d5d.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/BioAurora/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/BioAurora/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/BioAurora/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/BioAurora/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/BioAurora/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BioAurora/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/BioAurora/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BioAurora/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc557d5d.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c9c80148.chunk.js"
+  ]
+}
